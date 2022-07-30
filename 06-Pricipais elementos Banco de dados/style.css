@@ -1,0 +1,19 @@
+.titulo{
+    background-color: #563802;
+    color: #f0f8ff;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    background-color:#271a02 ;
+    color: #fff;
+    padding: 50px;
+}
+
+p{
+    font-size:22px;
+}
